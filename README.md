@@ -13,9 +13,10 @@
 
 ## 📊 GitHub 统计
 
-![ClawGit's GitHub stats](https://github-readme-stats.vercel.app/api?username=loonglee2025&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=loonglee2025&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loonglee2025&layout=compact&hide_border=true)
+![Followers](https://img.shields.io/github/followers/loonglee2025?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=loonglee2025&style=flat-square)
 
 ## 🛠️ 我在维护的项目
 
