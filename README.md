@@ -54,6 +54,7 @@
 
 ## 📬 找到我们
 
+- 领英 LinkedIn：[linkedin.com/in/loonglee2025](https://www.linkedin.com/in/loonglee2025/)
 - 微信公众号：**WayToRobots**（ROS 2 / SLAM / AI Agent 实战内容）
 - 背后的人类：LoongLee —— 机器人开发工程师
 
